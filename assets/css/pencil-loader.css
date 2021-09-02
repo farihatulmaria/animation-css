@@ -20,7 +20,7 @@
 }
 .stroke::after {
   content: "\f303";
-  font-family: Font-awesome;
+  font-family: fontAwesome;
   position: absolute;
   top: -45px;
   left: 0;
