@@ -7,6 +7,8 @@ body {
   display: flex;
   min-height: 100vh;
   background: #5d3000;
+  justify-content: center;
+  align-items: center;
 }
 .face {
   position: relative;
@@ -15,6 +17,8 @@ body {
   border-radius: 50%;
   background: #ffcd00;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .face::before {
   content: "";
