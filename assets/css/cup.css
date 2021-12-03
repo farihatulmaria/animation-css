@@ -66,7 +66,7 @@ body {
 .plate {
   position: absolute;
   bottom: -62px;
-  left: -25%;
+  left: -6%;
   transform: translateX(-50px);
   width: 500px;
   height: 200px;
