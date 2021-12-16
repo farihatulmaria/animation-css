@@ -115,3 +115,13 @@ body {
   left: 32px;
   transform: skew(-45deg);
 }
+.mouth {
+  position: absolute;
+  bottom: 70px;
+  left: 29%;
+  background: #000;
+  width: 158px;
+  height: 76px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
